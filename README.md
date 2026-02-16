@@ -1,5 +1,5 @@
 # Valonkantajat
-AT00BY07-3013 Ohjelmistotuotanto ja arkkitehtuuri  
-Course-in-a-course: Mini project  
+AT00BY07-3013 Software Production & Architecture
+Mini project  
 
-Ryhmän jäsenet: Milla Karjalainen, Sini Myllykoski, Sara Virtanen
+Team: Milla Karjalainen, Sini Myllykoski, Sara Virtanen
