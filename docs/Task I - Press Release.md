@@ -9,3 +9,5 @@ Hotel lighting solutions rarely cater to individual guest needs. Most hotels rel
 Getting started with RoomLight is straightforward. Hotels set up their preferred lighting presets, apply them across rooms, and adjust them whenever needed. Updates can be made easily, and the system works property-wide without adding operational burden. Guests can use the intuitive control system to choose the brightness and warmth they prefer.  
 
 *“The results of our hotel guest satisfaction survey have significantly improved since RoomLight was implemented in our rooms. Our guests have especially appreciated the ease of use and complete control over room lighting. RoomLight has lowered the number of room‑related issues we handle and helped us stand out in a competitive market while saving our staff valuable time,”* raves the hotel manager of a 200-room conference hotel in Helsinki.
+
+Last edited: 20.02.2026
