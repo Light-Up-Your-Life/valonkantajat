@@ -1,4 +1,4 @@
-## RoomLight — Let your guests light their stay their way.
+## RoomLight — Let your guests light their stay *their* way.
 
 LightBright introduces RoomLight, a hotel‑wide lighting system that gives every guest control over their room’s ambience while providing hotels with a simple way to design and manage lighting across the entire property.  
 
