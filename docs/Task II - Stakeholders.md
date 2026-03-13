@@ -1,4 +1,4 @@
-##Power-Impact Matrix
+## Power-Impact Matrix  
 
 ![Power-Impact Matrix](https://github.com/user-attachments/assets/a7b24e1a-a949-4dc0-9c2e-dbb036642fa6)
 
