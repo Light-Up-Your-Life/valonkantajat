@@ -11,3 +11,11 @@
 | Engineering Team | Enabler | A clear specification that does not change in every sprint, and infrastructure that does not require heroics to deploy. | Scope creep from new hotel properties each wanting custom one-off features that fragment the codebase. |  "How do we handle per-property customisation without forking the firmware?" | Technical architecture decisions, API design, build & release ownership. |
 | Hotel Guest | End User | Falling asleep in seconds, waking up refreshed, and not fumbling with confusing controls in an unfamiliar room. | Lights that will not turn off, a bright screen blinking at 3 am, or a room that feels like a tech demo instead of a retreat. | "Is there a way to just set it and forget it, like a bedtime mode?" | Real-world usage feedback, participation in UX testing. |
 | Housekeeping Staff | End User | Getting in and out of rooms quickly. Every extra button they have to press is time stolen from their quota. | Lights that do not return to a normal "cleaning mode" and slow down their workflow. | "Does it reset to a bright cleaning mode when a room is marked for housekeeping?" | Workflow testing, edge case reporting (e.g. lights not resetting). |
+
+### Stakeholder Interview Questions (Hotel IT Manager)
+
+1. **Walk us through how a new IoT device would typically get approved and connected to your network here.**  
+
+3. **How is your network segmented today? Do guest devices and operational systems share infrastructure?**   
+
+5. **If we gave you full API documentation and a test device two weeks before go-live, is that enough time to do a proper security review?**  
