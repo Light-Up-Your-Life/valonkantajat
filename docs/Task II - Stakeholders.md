@@ -35,7 +35,7 @@
 | Chain Operations Director | "I can't tell who's compliant" | Per-property compliance dashboard, real-time config status across portfolio |
 | IT Manager | "Every device is a new attack surface" | VLAN isolation, encrypted device communication, no default credentials |
 | IT Manager | "Another system that breaks at 02:00" | Local-first operation, offline resilience, remote diagnostic access |
-| Engineering Team | "Tens of firmware forks" | Single configurable firmware, profile-based customisation, no per-property code branches |
+| Engineering Team | "Dozens of firmware forks" | Single configurable firmware, profile-based customisation, no per-property code branches |
 | Engineering Team | "Six-week release cycle" | Over-the-air update system, staged rollout by property, automated regression testing |
 | Installation Tech | "App needs signal in a basement" | Full offline commissioning mode, local mesh device discovery, cloud sync on reconnect |
 | Installation Tech | "I need to prove every room is working" | Per-room commissioning report, exportable PDF handoff, green/red status per device |
