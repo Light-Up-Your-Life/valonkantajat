@@ -1,7 +1,7 @@
 # Task 2 – Stakeholders
 
 - Create a stakeholder map for RoomLight  
-- Identify stakeholders, place on Power-Interest grid  
+- Identify stakeholders, place on Power-Impact grid  
 - Walk through the 4 questions per stakeholder  
 - Prepare 3-5 interview questions for a RoomLight stakeholder  
 
