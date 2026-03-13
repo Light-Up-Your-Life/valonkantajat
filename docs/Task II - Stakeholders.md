@@ -48,8 +48,8 @@
 
 ## Stakeholder Interview Questions (Chain/Hotel IT Manager)
 
-1. How would a new IoT device typically get approved and connected to your network?  
+**1.** How would a new IoT device typically get approved and connected to your network?  
 
-2. How is your network segmented, do guest devices and operational systems share infrastructure?  
+**2.** How is your network segmented, do guest devices and operational systems share infrastructure?  
 
-3. If we gave you full API documentation and a test device two weeks before going live, would that be enough time to do a proper security review?  
+**3.** If we gave you full API documentation and a test device two weeks before going live, would that be enough time to do a proper security review?  
