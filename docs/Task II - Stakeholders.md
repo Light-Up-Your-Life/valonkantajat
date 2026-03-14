@@ -9,7 +9,7 @@
 
 
 
-![Power-Impact Matrix](https://github.com/user-attachments/assets/a7b24e1a-a949-4dc0-9c2e-dbb036642fa6)
+![Power-Impact Matrix](https://github.com/sara-virtanen/sara-virtanen.github.io/blob/70ee74d76d7d55602d0d7daeb938170aa65c70c5/Images/stakeholder_matrix.png)
 
 ## Stakeholders  
 | Stakeholder | Role | What matters most? | What keeps me up at night? | Key question? | What do we need from them? |
