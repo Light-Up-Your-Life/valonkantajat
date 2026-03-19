@@ -6,10 +6,10 @@
 
 | REQ-ID | Requirement Description | Type | Pri |
 |---|----|-----------------|----------------------|
-| 001 | Jotain | Functional | Must |
-| 002 | Jotain | Non-Functional | Should |
-| 003 | Jotain | Functional | Could |
-| 004 | Jotain | Functional | Could |
+| 001 | Lighting must work the same way in all rooms| Non-Functional | Must |
+| 002 | The system must work reliably at all times | Non-Functional | Must |
+| 003 | The system should work well with many rooms | Non-Functional | Should |
+| 004 | The system should be easy to install | Non-Functional | Should |
 | 005 | Jotain | Functional | Could |
 | 006 | Jotain | Functional | Could |
 | 007 | Jotain | Functional | Could |
