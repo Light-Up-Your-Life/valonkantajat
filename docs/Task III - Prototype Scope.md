@@ -22,7 +22,9 @@ How?”
 Your prototype needs to answer these questions with a working demo.  
 How you solve them is up to you.  
 
+Do not focus on HOW you are going to build the prototype. Only WHAT you are setting out to prove. We are not yet designing software internals or writing code – that’s the next lessons.  
+
 ## Task
 
 1. Prototype description — 3–5 sentences: what does it do, who is it for, what does it prove?
-2. Demonstrate — which product requirements (REQ-IDs) the prototype proves. Why?
+2. Demonstrate — which product requirements (REQ-IDs) the prototype proves. Why?  
