@@ -1,6 +1,8 @@
 # Task 3 – Requirements
 
-* Write Product Requirements for RoomLight 
+* Write at least 10 product requirements for RoomLight
+* Each needs: ID, description, priority
+* Must include both functional + non-functional
 
 | REQ-ID | Requirement Description | Type | Pri |
 |---|----|-----------------|----------------------|
