@@ -7,7 +7,7 @@
 * It will demonstrate the concept of "Configure once, sync everywhere".
 * Scope down to essentials.
 
-### RoomLight scoping down
+### Scoping Down RoomLight
 
 Core promise: **Configure once, sync everywhere.**  
 
