@@ -7,6 +7,8 @@
 * And it will demonstrate the concept of Configure once, sync everywhere.
 * Scope down to essentials.
 
+### RoomLight scoping down
+
 Core promise: **Configure once, sync everywhere.**  
 
 The VP is asking you hard questions, as if on behalf of a hypothetical customer: 
