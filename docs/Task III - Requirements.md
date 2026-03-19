@@ -8,5 +8,5 @@
 | 002 | Jotain | Non-Functional | Should |
 | 003 | Jotain | Functional | Could |
 
-Functional, Non-Functional
-Must, Should, Could
+* Functional, Non-Functional  
+* Must, Should, Could  
