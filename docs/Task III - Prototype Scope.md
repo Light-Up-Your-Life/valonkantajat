@@ -30,5 +30,4 @@ Do not focus on HOW you are going to build the prototype. Only WHAT you are sett
 2. Demonstrate — which product requirements (REQ-IDs) the prototype proves. Why?
 
 ## Prototype description  
-The RoomLight prototype demonstrates the system’s consistency, reliability, and scalability for hotel staff.  
-It shows that lighting behaves the same in all tested (?) rooms (001), operates reliably (002), can handle multiple rooms (003), and is easy to install (004) for non-technical users. The prototype proves that the system meets key operational requirements and supports staff efficiency and room verification.  
+The RoomLight prototype demonstrates the system’s consistency, reliability, and scalability for hotel staff. It shows that lighting behaves the same in all tested (?) rooms (001), operates reliably (002), can handle multiple rooms (003), and is easy to install (004) for non-technical users. The prototype proves that the system meets key operational requirements and supports staff efficiency and room verification.  
