@@ -14,7 +14,7 @@
 | 006 | The system must allow guests to adjust room lighting | Functional | Must |
 | 007 | The system must comply with GDPR and other data protection standards | Non-Functional | Must |
 | 008 | The system should work well with many rooms | Non-Functional | Should |
-| 009 | The system should have a failover connection  | Functional | Should |
+| 009 | The system should have a failover connection  | Non-Functional | Should |
 | 010 | The system should be easy to install and set up | Non-Functional | Should |
 | 011 | The user interface should load in under 2 seconds | Non-Functional | Should |
 | 012 | The system should support scalability | Non-Functional | Should |
