@@ -19,6 +19,3 @@
 | 011 | The user interface should load quickly | Non-Functional | Should |
 | 012 | The system could support different lighting modes | Functional | Could |
 | 013 | Guests could save personal lighting preferences | Functional | Could |
-
-* Functional, Non-Functional  
-* Must, Should, Could  
