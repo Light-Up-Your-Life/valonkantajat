@@ -17,7 +17,7 @@
 | 009 | The system should have a failover connection  | Non-Functional | Should |
 | 010 | The system should be easy to install and set up | Non-Functional | Should |
 | 011 | The user interface should load quickly | Non-Functional | Should |
-| 012 | The system could support different lighting modes for hotel operations | Functional | Could |
+| 012 | The system could support different lighting modes | Functional | Could |
 | 013 | Guests could save personal lighting preferences | Functional | Could |
 
 * Functional, Non-Functional  
