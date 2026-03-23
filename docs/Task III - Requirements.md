@@ -13,13 +13,12 @@
 | 005 | The system must integrate with existing infrastructure (power, lighting hardware) | Functional | Must |
 | 006 | The system must allow guests to adjust room lighting | Functional | Must |
 | 007 | The system must comply with GDPR and other data protection standards | Non-Functional | Must |
-| 008 | The system should work well with many rooms | Non-Functional | Should |
+| 008 | The system should support scalability | Non-Functional | Should |
 | 009 | The system should have a failover connection  | Non-Functional | Should |
 | 010 | The system should be easy to install and set up | Non-Functional | Should |
 | 011 | The user interface should load in under 2 seconds | Non-Functional | Should |
-| 012 | The system should support scalability | Non-Functional | Should |
-| 013 | The system could support different lighting modes for hotel operations | Functional | Could |
-| 014 | Guests could save personal lighting preferences | Functional | Could |
+| 012 | The system could support different lighting modes for hotel operations | Functional | Could |
+| 013 | Guests could save personal lighting preferences | Functional | Could |
 
 * Functional, Non-Functional  
 * Must, Should, Could  
