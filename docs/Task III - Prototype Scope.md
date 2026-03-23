@@ -43,4 +43,4 @@ The RoomLight prototype simulates a set of rooms and their lighting states. It l
 | **003** | The system must show staff the lighting status of all rooms | The prototype prints the current lighting state of every room in a single command. |
 | **004** | The system must let staff control lighting across the property | The prototype allows updating lighting settings for any or all rooms from one central place. |
 | **008** | The system should support scalability | The prototype can simulate dozens or hundreds of rooms, proving the concept works at scale. |
-| **010** | The system should be easy to install and set up | Running a single Python script demonstrates that the concept can be tested without complex setup. |
+| **010** | The system should be easy to install and set up | The prototype runs from a single script, demonstrating simple setup and easy initialization. |
