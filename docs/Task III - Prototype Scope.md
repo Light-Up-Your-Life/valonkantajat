@@ -6,8 +6,6 @@
 2. Demonstrate — which product requirements (REQ-IDs) the prototype proves. Why?
 
 ## Prototype description  
-The RoomLight prototype demonstrates the system’s consistency, reliability, and scalability for hotel staff. It shows that lighting behaves the same in all tested (?) rooms (001), operates reliably (002), can handle multiple rooms (003), and is easy to install (004) for non-technical users. The prototype proves that the system meets key operational requirements and supports staff efficiency and room verification.  
-
 The RoomLight prototype simulates a set of rooms and their lighting states (008). It lets a user create one lighting configuration and apply it to all rooms or selected rooms at once (001, 002, 004), demonstrating “configure once, sync everywhere.” The tool also allows viewing the lighting state of every room with a single command (003), proving that room verification can be done quickly. The prototype runs as a simple script (010) and demonstrates how the final system will support hotel staff workflows.  
 
 ## Demonstrated Product Requirements
