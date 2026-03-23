@@ -38,7 +38,7 @@ The RoomLight prototype simulates a set of rooms and their lighting states. It l
 
 | REQ‑ID | Requirement Description | Why the Prototype Demonstrates It |
 |--------|--------------------------|-----------------------------------|
-| **001** | The system must apply configurations | The prototype shows consistent, repeatable behaviour when configurations are applied or room states are viewed. |
+| **001** | The system must apply configurations correctly | The prototype shows consistent, repeatable behaviour when configurations are applied or room states are viewed. |
 | **002** | Lighting must work the same way in all rooms | Applying one configuration to many simulated rooms demonstrates consistent behaviour across rooms. |
 | **003** | The system must show staff the lighting status of all rooms | The prototype prints the current lighting state of every room in a single command. |
 | **004** | The system must let staff control lighting across the property | The prototype allows updating lighting settings for any or all rooms from one central place. |
