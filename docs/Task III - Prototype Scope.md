@@ -34,7 +34,7 @@ The RoomLight prototype demonstrates the system’s consistency, reliability, an
 
 The RoomLight prototype simulates a set of rooms and their lighting states. It lets a user create one lighting configuration and apply it to all rooms or selected rooms at once, demonstrating “configure once, sync everywhere.” The tool also allows viewing the lighting state of every room with a single command, proving that room verification can be done quickly. This proof‑of‑concept demonstrates how the final system will support hotel staff workflows.  
 
-### Demonstrated Product Requirements
+## Demonstrated Product Requirements
 
 | REQ‑ID | Requirement Description | Why the Prototype Demonstrates It |
 |--------|--------------------------|-----------------------------------|
