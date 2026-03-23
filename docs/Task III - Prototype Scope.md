@@ -1,7 +1,5 @@
 # Task 3 – Prototype Scope
 
-## Task
-
 1. Prototype description — 3–5 sentences: what does it do, who is it for, what does it prove?
 2. Demonstrate — which product requirements (REQ-IDs) the prototype proves. Why?
 
