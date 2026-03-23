@@ -12,7 +12,7 @@
 | 004 | The system must let staff control lighting across the property | Functional | Must |
 | 005 | The system must integrate with existing infrastructure (power, lighting hardware) | Functional | Must |
 | 006 | The system must allow guests to adjust room lighting | Functional | Must |
-| 007 | The system must comply with GDPR and other data protection standards | Non-Functional | Must |
+| 007 | The system must comply with data protection standards | Non-Functional | Must |
 | 008 | The system should support scalability | Non-Functional | Should |
 | 009 | The system should have a failover connection  | Non-Functional | Should |
 | 010 | The system should be easy to install and set up | Non-Functional | Should |
