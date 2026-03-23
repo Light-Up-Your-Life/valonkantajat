@@ -6,7 +6,7 @@
 
 | REQ-ID | Requirement Description | Type | Pri |
 |---|----|-----------------|----------------------|
-| 001 | The system must work reliably at all times | Non-Functional | Must |
+| 001 | The system must apply configurations correctly | Non-Functional | Must |
 | 002 | Lighting must work the same way in all rooms| Non-Functional | Must |
 | 003 | The system must show staff the lighting status of all rooms | Functional | Must |
 | 004 | The system must let staff control lighting across the property | Functional | Must |
