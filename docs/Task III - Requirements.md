@@ -10,7 +10,7 @@
 | 002 | Lighting must work the same way in all rooms| Non-Functional | Must |
 | 003 | The system must show staff the lighting status of all rooms | Functional | Must |
 | 004 | The system must let staff control lighting across the property | Functional | Must |
-| 005 | The system must integrate with existing infrastructure (power, lighting hardware) | Functional | Must |
+| 005 | The system must integrate with existing infrastructure | Functional | Must |
 | 006 | The system must allow guests to adjust room lighting | Functional | Must |
 | 007 | The system must comply with data protection standards | Non-Functional | Must |
 | 008 | The system should support scalability | Non-Functional | Should |
