@@ -1,4 +1,4 @@
-# 4) Domain Model for RoomLight  
+# Task 4 -  Domain Model
 
 ✓Identify key concepts and relationships  
 ✓Text format, or a simple ASCII diagram  
