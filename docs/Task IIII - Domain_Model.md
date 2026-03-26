@@ -22,7 +22,7 @@ Hints:
 | 012    | The system could support different lighting modes | system, lighting modes |
 | 013    | Guests could save personal lighting preferences | guests, personal lighting preferences |
 
-# Summary:  
+## Summary:  
 - System  
 - Lighting  
 - Rooms  
@@ -30,7 +30,7 @@ Hints:
 - Preference / Status / Modes  
 - Infrastructure / Installation / setup
 
-# Relationships  
+## Relationships  
 
 
-# Diagram (?)  
+## Diagram (?)  
