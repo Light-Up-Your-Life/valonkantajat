@@ -69,8 +69,55 @@ Four functions most teams identified — the core of what your prototype should 
 
 Functions 1+2 together = the core promise. Your prototype should prove this loop works end to end.
 
-## Relationships  
+## Key Concepts
 
+### Core System Concepts
+
+- System
+- Room
+- Lighting
+- LightingMode
+- LightingStatus
+- LightingPreference
+
+### Actors
+- Guest
+- Staff
+
+### Configuration Concepts
+- Configuration
+- Property
+
+### Operations & Infrastructure
+- Infrastructure
+- Installation / Setup
+- FailoverConnection
+
+## Relationships
+
+### Rooms & Lighting
+- Room has Lighting
+- Lighting has LightingStatus
+- Lighting may use LightingModes
+
+### Guests & Rooms
+- Guest controls Lighting in Room
+- Guest may save LightingPreferences
+
+### Staff & System
+- Staff monitors LightingStatus across Rooms
+- Staff applies Configurations to Rooms
+
+### System & Configuration
+- System stores Configurations
+- System applies Configurations to Rooms
+
+### Infrastructure
+- System integrates with Infrastructure
+- Installation sets up System on Infrastructure
+
+### Failover
+- System has FailoverConnection
 
 ## Diagram (?)  
 
