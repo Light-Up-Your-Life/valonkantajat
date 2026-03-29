@@ -1,14 +1,9 @@
 # Task 4 -  Domain Model
 
-✓Identify key concepts and relationships  
-✓Text format, or a simple ASCII diagram  
-Hints:
-• Read your requirements — pick out the nouns
-• QuickPress example (slide 21)
+✓ Identify key concepts and relationships  
+✓ Text format, or a simple ASCII diagram  
 
 ## Prototype Scope
-
-Can you write "Verify that..." and end with a yes/no answer? If not, rewrite.  
 
 | REQ‑ID | Requirement Description | Key Concepts |
 |--------|--------------------------|-----------------------------------|
@@ -18,10 +13,6 @@ Can you write "Verify that..." and end with a yes/no answer? If not, rewrite.
 | 004    | The system must let staff control lighting across the property | system, staff, lighting, property |
 | 008    | The system supports at least 100 rooms per setup | system, scalability |
 | 010    | The system can be set up by a new user in under 10 minutes | system, installation, setup |
-
-**Unique nouns across prototype scope:**  
-
-system, configuration, lighting, room(s), staff, status, property
 
 ## Your Prototype Scope
 
@@ -69,31 +60,6 @@ Functions 1+2 together = the core promise. Your prototype should prove this loop
 - Installation / Setup
 - FailoverConnection
 
-## Relationships
-
-### Rooms & Lighting
-- Room has Lighting
-- Lighting has LightingStatus
-- Lighting may use LightingModes
-
-### Guests & Rooms
-- Guest controls Lighting in Room
-- Guest may save LightingPreferences
-
-### Staff & System
-- Staff monitors LightingStatus across Rooms
-- Staff applies Configurations to Rooms
-
-### System & Configuration
-- System stores Configurations
-- System applies Configurations to Rooms
-
-### Infrastructure
-- System integrates with Infrastructure
-- Installation sets up System on Infrastructure
-
-### Failover
-- System has FailoverConnection
 
 ## Diagram
 
