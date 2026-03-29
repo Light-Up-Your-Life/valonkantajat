@@ -61,22 +61,5 @@ Functions 1+2 together = the core promise. Your prototype should prove this loop
 
 ## Diagram
 
-<img width="942.5" height="1240.2" alt="Prototype_Diagram_clean drawio" src="https://github.com/user-attachments/assets/c558939e-e53d-4add-90f5-dec55847132d" />
+<img width="665" height="934" alt="Prototype_Final_Diagram drawio" src="https://github.com/user-attachments/assets/b0516767-8a2a-4a86-bd18-1bbb847e8bc6" />
 
-## Architecture
-
-### Architecture  
-
-big decisions, hard to change  
-
-* What components does the system have?  
-* How do they communicate?  
-* What technology? Where is data stored?  
-
-### UI/UX Design  
-
-what the user sees and does  
-
-* What does using the product look like?  
-* What is the interaction model?  
-* How are errors communicated?  
