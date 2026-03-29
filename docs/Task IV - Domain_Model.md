@@ -10,7 +10,7 @@
 | 001    | When a configuration is saved, the system must apply all settings within 10 seconds | system, configurations |
 | 002    | Lighting must work the same way in all rooms | lighting, rooms |
 | 003    | The system must display the current lighting state of all rooms on a single screen | system, state, rooms, screen |
-| 004    | The system must let staff control lighting across the property | system, staff, lighting, property |
+| 004    | Staff must be able to adjust lighting in any room from a control interface | system, staff, lighting, property |
 | 008    | The system supports at least 100 rooms per setup | system, scalability |
 | 010    | The system can be set up by a new user in under 10 minutes | system, installation, setup |
 
