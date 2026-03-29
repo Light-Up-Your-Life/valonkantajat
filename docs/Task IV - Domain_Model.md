@@ -14,10 +14,6 @@
 | 008    | The system supports at least 100 rooms per setup | system, rooms, setup |
 | 010    | The system can be set up by a new user in under 10 minutes | system, user |
 
-## Your Prototype Scope
-
-Four functions most teams identified — the core of what your prototype should prove  
-
 1. **Create a lighting profile**
    
 * Define a named set of lighting parameters (brightness, color temperature, scene) that can be reused.  
