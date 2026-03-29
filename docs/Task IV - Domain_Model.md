@@ -12,7 +12,7 @@ Can you write "Verify that..." and end with a yes/no answer? If not, rewrite.
 
 | REQ‑ID | Requirement Description | Key Concepts |
 |--------|--------------------------|-----------------------------------|
-| 001    | The system must apply configurations correctly | system, configurations |
+| 001    | When a configuration is saved, the system must apply all settings within 10 seconds | system, configurations |
 | 002    | Lighting must work the same way in all rooms | lighting, rooms |
 | 003    | The system must show staff the lighting status of all rooms | system, staff, lighting status, rooms |
 | 004    | The system must let staff control lighting across the property | system, staff, lighting, property |
