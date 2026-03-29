@@ -30,6 +30,17 @@ Hints:
 - Preference / Status / Modes  
 - Infrastructure / Installation / setup
 
+## Prototype Scope
+
+| REQ‑ID | Requirement Description | Key Conceptst |
+|--------|--------------------------|-----------------------------------|
+| 001    | The system must apply configurations correctly | system, configurations |
+| 002    | Lighting must work the same way in all rooms | lighting, rooms |
+| 003    | The system must show staff the lighting status of all rooms | system, staff, lighting status, rooms |
+| 004    | The system must let staff control lighting across the property | system, staff, lighting, property |
+| 008    | The system should support scalability | system, scalability |
+| 010    | The system should be easy to install and set up | system, installation, setup |
+
 ## Relationships  
 
 
