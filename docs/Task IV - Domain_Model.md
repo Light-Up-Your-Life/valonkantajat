@@ -95,10 +95,9 @@ Functions 1+2 together = the core promise. Your prototype should prove this loop
 ### Failover
 - System has FailoverConnection
 
-## Diagram (?)  
+## Diagram
 
-<img width="800" height="1000" alt="Prototype_Diagram_clean drawio" src="https://github.com/user-attachments/assets/8de30f64-be05-42b2-a24c-99a7ce3c5c26" />
-
+<img width="942.5" height="1240.2" alt="Prototype_Diagram_clean drawio" src="https://github.com/user-attachments/assets/c558939e-e53d-4add-90f5-dec55847132d" />
 
 ## Architecture
 
