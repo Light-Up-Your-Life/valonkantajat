@@ -8,7 +8,7 @@
 | REQ‑ID | Requirement Description | Key Concepts |
 |--------|--------------------------|-----------------------------------|
 | 001    | When a configuration is saved, the system must apply all settings within 10 seconds | system, configurations |
-| 002    | Lighting must work the same way in all rooms | lighting, rooms |
+| 002    | The same configuration must produce the same result in any room | lighting, rooms |
 | 003    | The system must display the current lighting state of all rooms on a single screen | system, state, rooms, screen |
 | 004    | Staff must be able to adjust lighting in any room from a control interface | system, staff, lighting, property |
 | 008    | The system supports at least 100 rooms per setup | system, scalability |
