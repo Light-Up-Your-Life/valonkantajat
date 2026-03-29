@@ -53,19 +53,19 @@ Four functions most teams identified — the core of what your prototype should 
 
 1. **Create a lighting profile**
    
-Define a named set of lighting parameters (brightness, color temperature, scene) that can be reused.  
+* Define a named set of lighting parameters (brightness, color temperature, scene) that can be reused.  
 
 2. **Apply a profile to rooms**  
 
-Select a profile and deploy it to one or more rooms — the "configure once, sync everywhere" promise.  
+* Select a profile and deploy it to one or more rooms — the "configure once, sync everywhere" promise.  
 
 3. **View room status**
    
-See which profile each room is running, whether it's online, and whether the last sync succeeded.
+* See which profile each room is running, whether it's online, and whether the last sync succeeded.
 
 4. **Guest overrides their room**
    
-A guest selects a mood from an in-room control. Their change doesn't affect other rooms. Resets on checkout.  
+* A guest selects a mood from an in-room control. Their change doesn't affect other rooms. Resets on checkout.  
 
 Functions 1+2 together = the core promise. Your prototype should prove this loop works end to end.
 
