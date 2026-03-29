@@ -34,32 +34,6 @@
 
 Functions 1+2 together = the core promise. Your prototype should prove this loop works end to end.
 
-## Key Concepts
-
-### Core System Concepts
-
-- System
-- Room
-- Lighting
-- LightingMode
-- LightingStatus
-- LightingPreference
-
-### Actors
-- Guest
-- Staff
-
-### Configuration Concepts
-- Configuration
-- Property
-
-### Operations & Infrastructure
-- Infrastructure
-- Installation / Setup
-- FailoverConnection
-
-
 ## Diagram
 
 <img width="665" height="934" alt="Prototype_Final_Diagram drawio" src="https://github.com/user-attachments/assets/b0516767-8a2a-4a86-bd18-1bbb847e8bc6" />
-
