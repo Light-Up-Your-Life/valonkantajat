@@ -97,6 +97,8 @@ Functions 1+2 together = the core promise. Your prototype should prove this loop
 
 ## Diagram (?)  
 
+<img width="800" height="1000" alt="Prototype_Diagram_clean drawio" src="https://github.com/user-attachments/assets/8de30f64-be05-42b2-a24c-99a7ce3c5c26" />
+
 
 ## Architecture
 
