@@ -41,6 +41,10 @@ Hints:
 | 008    | The system should support scalability | system, scalability |
 | 010    | The system should be easy to install and set up | system, installation, setup |
 
+**Unique nouns across prototype scope:**  
+
+system, configuration, lighting, room(s), staff, status, property
+
 ## Relationships  
 
 
