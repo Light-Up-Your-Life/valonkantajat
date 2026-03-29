@@ -32,7 +32,9 @@ Hints:
 
 ## Prototype Scope
 
-| REQ‑ID | Requirement Description | Key Conceptst |
+Can you write "Verify that..." and end with a yes/no answer? If not, rewrite.  
+
+| REQ‑ID | Requirement Description | Key Concepts |
 |--------|--------------------------|-----------------------------------|
 | 001    | The system must apply configurations correctly | system, configurations |
 | 002    | Lighting must work the same way in all rooms | lighting, rooms |
