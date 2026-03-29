@@ -75,14 +75,20 @@ Functions 1+2 together = the core promise. Your prototype should prove this loop
 ## Diagram (?)  
 
 
-**Architecture**  
+## Architecture
+
+### Architecture  
+
 big decisions, hard to change  
+
 * What components does the system have?  
 * How do they communicate?  
 * What technology? Where is data stored?  
 
-**UI/UX Design**  
+### UI/UX Design  
+
 what the user sees and does  
+
 * What does using the product look like?  
 * What is the interaction model?  
 * How are errors communicated?  
