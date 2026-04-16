@@ -35,7 +35,7 @@
 
 ---
 
-## Architecture & Design
+## Architecture & SW Design
 
 **Main Components**  
 
