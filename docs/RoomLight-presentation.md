@@ -20,13 +20,11 @@
 - View room status  
 - Guest override  
 - Reset on checkout  
-- JSON persistence  
 
 **Out of Scope**  
 - Real IoT hardware  
 - Network failures 
 - Security  
-- UI usability testing  
 
 **Key Requirements**  
 - Consistent behavior across rooms  
