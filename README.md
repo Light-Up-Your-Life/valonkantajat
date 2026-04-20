@@ -14,4 +14,6 @@ Team: Milla Karjalainen, Sini Myllykoski, Sara Virtanen
 - [ ] Task 5: Architecture  
 - [ ] Task 6: Test Plan & Cases  
 - [ ] Task 7: Code  
-- [ ] Task 8: DEMO  
+- [ ] Task 8: [DEMO](https://github.com/Light-Up-Your-Life/valonkantajat/tree/main/src/RoomLight_Demo)  
+
+Video presentation of project
