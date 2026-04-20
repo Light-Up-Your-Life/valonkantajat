@@ -12,7 +12,7 @@ Team: Milla Karjalainen, Sini Myllykoski, Sara Virtanen
 - [x] Task 3b: [Prototype Scope](https://github.com/Light-Up-Your-Life/valonkantajat/blob/main/docs/Task%20III%20-%20Prototype%20Scope.md)
 - [x] Task 4: [Domain Model](https://github.com/Light-Up-Your-Life/valonkantajat/blob/main/docs/Task%20IV%20-%20Domain_Model.md)  
 - [ ] Task 5: [Architecture](https://github.com/Light-Up-Your-Life/valonkantajat/blob/main/docs/Task%20IV%20-%20Domain_Model.md)  
-- [ ] Task 6: [Test Plan & Cases ](https://github.com/Light-Up-Your-Life/valonkantajat/blob/main/docs/Test_Plan.md) 
+- [ ] Task 6: [Test Plan & Cases ](https://github.com/Light-Up-Your-Life/valonkantajat/blob/main/docs/Task%20VI%20-%20Test_Plan.md) 
 - [ ] Task 7: [Code](https://github.com/Light-Up-Your-Life/valonkantajat/tree/main/src/RoomLight_Demo)  
 - [ ] Task 8: [DEMO](https://github.com/Light-Up-Your-Life/valonkantajat/tree/main/src/RoomLight_Demo)  
 
